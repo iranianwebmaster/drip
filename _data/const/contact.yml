@@ -1,0 +1,41 @@
+# The contact account constants
+# for icons https://fontawesome.com/v4.7/icons/
+# keys need to match with accounts in _data/owner.yml file
+
+email:
+  icon: "fa fa-envelope-o"
+  url: "compositeisfahan.ir@gmail.com"
+linkedin:
+  icon: "fa fa-linkedin"
+  url: "https://www.linkedin.com/in/nama-composite/"
+youtube:
+  icon: "fa fa-youtube-play"
+  url: "https://www.youtube.com/channel/UCUpJ8VIXj5-8EFkaO9FntAA"
+facebook:
+  icon: "fa fa-facebook"
+  url: "https://www.facebook.com/isfahancompositeview"
+telegram:
+  icon: "fa fa-telegram"
+  url: "https://t.me/isfcomposite"
+vk:
+  icon: "fa fa-vk"
+  url: "https://vk.com/compositeisfahan"
+odnoklassniki:
+  icon: "fa fa-odnoklassniki-square"
+  url: "https://ok.ru/composite"
+pinterest:
+  icon: "fa fa-pinterest"
+  url: "https://www.pinterest.com/isfahan_composite/_saved/"
+reddit:
+  icon: "fa fa-reddit"
+  url: "https://www.reddit.com/user/isfahan-composite"
+medium:
+  icon: "fa fa-medium"
+  url: "https://composite-facade.medium.com"
+whatsapp:
+  icon: "fa fa-whatsapp"
+  url: "https://wa.me/989122448082"
+# add your new contact
+# your_new_contact:
+#   icon: "fa fa-font"
+#   url: "https://www.example.com"

@@ -1,0 +1,604 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
+page_data:
+  main:
+    header: "المشاريع"
+    info: "فيما يلي بعض الأمثلة لواجهة الألمنيوم المركب والواجهة الحرارية المصنوعة من قبل شركتنا."
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":aluminium-composite-projects.avifs"
+    back_color: "lightblue"
+
+  category:
+    - title: "متجر"
+      type: id_shop-sign
+      color: "black"
+    - title: "محطة غاز"
+      type: id_gas-station
+      color: "black"
+    - title: "مبنى"
+      type: id_building
+      color: "black"
+    - title: "برج"
+      type: id_tower
+      color: "black"
+    - title: "المجمع"
+      type: id_commercial_complex
+      color: "black"
+    - title: "مصنع"
+      type: id_factory
+      color: "black"    
+    - title: "بنك"
+      type: id_bank
+      color: "black"  
+    - title: "مسجد"
+      type: id_mosque
+      color: "black" 
+
+
+  list:
+    - type: id_commercial_complex
+      project_name: "پروژه اجرای نمای کامپوزیت مجتمع تجاری اداری نور"
+      project_excerpt: "این پروژه به سبک فیکس در سال 1391 با ورق آ اس باند نقره ای و با ظاهری  زیبا و شیک اجرا شده است ."
+      img: ":aluminium-composite-Commercial-Complex.webp"
+      img_title: "نمای کامپوزیت مجتمع تجاری نور"
+      date: "2022-04-30"
+      post: |
+        تصاویر پروژه اجرای نمای کامپوزیت مجتمع تجاری اداری نور را مشاهده می‌کنید.
+        اگر قصد دارید مجتمع‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مجتمع تجاری](:aluminium-composite-Commercial-Complex.webp)
+        ![نمای کامپوزیت مجتمع تجاری](:aluminium-composite-Commercial-Complex2.webp)
+        ![عکس نمای کامپوزیت مجتمع تجاری](:aluminium-composite-Commercial-Complex1.webp)
+        ![عکس نما کامپوزیت مجتمع تجاری](:aluminium-composite-Commercial-Complex3.webp)
+        ![عکس کامپوزیت مجتمع تجاری](:aluminium-composite-Commercial-Complex-view.webp)
+
+    - type: id_commercial_complex
+      project_name: "پروژه اجرای نمای کامپوزیت مجتمع تجاری اداری مه"
+      project_excerpt: "این پروژه به سبک فیکس با ورق پرمیوم باند و با ظاهری بسیار زیبا اجرا شده است ."
+      img: ":aluminium-composite-Commercial-Complex-image1.webp"
+      img_title: "نمای کامپوزیت مجتمع تجاری نور"
+      date: "2022-04-30"
+      post: |
+        تصاویر پروژه اجرای نمای کامپوزیت مجتمع تجاری اداری مه را مشاهده می‌کنید.
+        اگر قصد دارید مجتمع‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مجتمع مسکونی](:aluminium-composite-Commercial-Complex-image1.webp)
+        ![نمای کامپوزیت مجتمع مسکونی](:aluminium-composite-Commercial-Complex-image2.webp)
+        ![نمای کامپوزیت مجتمع تجاری](:aluminium-composite-Commercial-Complex-image3.webp)
+        ![نمای کامپوزیت مجتمع مسکونی](:aluminium-composite-Commercial-Complex-image4.webp)  
+        ![نمای کامپوزیت مجتمع تجاری](:aluminium-composite-Commercial-Complex-image5.webp)
+        ![نمای کامپوزیت مجتمع تجاری](:aluminium-composite-Commercial-Complex-image6.webp)  
+        ![نمای کامپوزیت مجتمع تجاری](:aluminium-composite-Commercial-Complex-image7.webp)
+
+    - type: id_commercial_complex
+      project_name: "پروژه نمای کامپوزیت و فریم لس مجتمع تجاری اداری عبدالرضا اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با ورق نوک مدادی و نقره ای و با ظاهری بسیار زیبا طراحی و اجرا شده است ."
+      img: ":aluminium-composite-frameless-complex-picture1.webp"
+      img_title: "نمای کامپوزیت و فریم لس مجتمع تجاری اداری"
+      date: "2022-04-30"
+      post: |
+        تصاویر پروژه نمای کامپوزیت و فریم لس مجتمع تجاری اداری عبدالرضا در اصفهان را مشاهده می‌کنید.
+        اگر قصد دارید مجتمع‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مجتمع مسکونی](:aluminium-composite-frameless-complex-picture1.webp)
+        ![نمای کامپوزیت مجتمع مسکونی](:aluminium-composite-frameless-complex-picture2.webp)
+        ![نمای کامپوزیت مجتمع مسکونی](:aluminium-composite-frameless-complex-picture3.webp)
+        ![نمای کامپوزیت مجتمع مسکونی](:aluminium-composite-frameless-complex-picture4.webp)
+        ![نمای کامپوزیت مجتمع مسکونی](:aluminium-composite-frameless-complex-picture5.webp)
+        ![نمای کامپوزیت مجتمع مسکونی](:aluminium-composite-frameless-complex-picture6.webp)
+
+    - type: id_commercial_complex
+      project_name: "پروژه نمای کامپوزیت مجتمع تجاری اداری امیر شاهین شهر"
+      project_excerpt: "این پروژه در سال 1390 به سبک فیکس با ظاهری بسیار زیبا اجرا شده است ."
+      img: ":aluminium-composite-Commercial-Complex-isfahan.webp"
+      img_title: "نمای کامپوزیت مجتمع تجاری اداری امیر در شاهین شهر"
+      date: "2022-04-30"
+      post: |
+        تصویر پروژه نمای کامپوزیت مجتمع تجاری اداری امیر در شاهین شهر اصفهان را مشاهده می‌کنید.
+        اگر قصد دارید مجتمع‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مجتمع تجاری اداری امیر در شاهین شهر](:aluminium-composite-Commercial-Complex-isfahan.webp)
+        
+    - type: id_commercial_complex
+      project_name: "پروژه نمای کامپوزیت طرح چوب مجتمع تجاری اداری سامانی"
+      project_excerpt: "این پروژه به سبک فیکس با ورق طرح چوب پرمیوم باند و با ظاهری بسیار زیبا اجرا شده است ."
+      img: ":aluminium-composite-wood-skin-building1.webp"
+      img_title: "نمای کامپوزیت طرح چوب مجتمع تجاری اداری"
+      date: "2022-04-30"
+      post: |
+        تصاویر پروژه نمای کامپوزیت مجتمع تجاری اداری سامانی را مشاهده می‌کنید.
+        اگر قصد دارید مجتمع‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت طرح چوب مجتمع تجاری اداری](:aluminium-composite-wood-skin-building1.webp)
+        ![نمای کامپوزیت طرح چوب مجتمع تجاری اداری](:aluminium-composite-wood-skin-building2.webp)
+        ![نمای کامپوزیت طرح چوب مجتمع تجاری اداری](:aluminium-composite-wood-skin-building3.webp)
+        ![نمای کامپوزیت طرح چوب مجتمع تجاری اداری](:aluminium-composite-wood-skin-building4.webp)
+
+    - type: id_factory
+      project_name: "پروژه نمای کامپوزیت کارخانه طلای سیاه مورچه خورت"
+      project_excerpt: "این پروژه در بهار سال 1395 برای اقای محمدی رئیس کارخانه به سبک فیکس با ورق پرمیوم باند اجرا شده است."
+      img: ":aluminium-composite-facade-factory-picture8.webp"
+      img_title: "نمای کامپوزیت کارخانه"
+      date: "2022-04-30"
+      post: |
+        پروژه نمای کامپوزیت کارخانه طلای سیاه مورچه خورت اصفهان را مشاهده می‌کنید.
+        اگر قصد دارید کارخانه‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture1.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture2.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture3.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture4.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture5.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture6.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture7.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture8.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture9.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture10.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture11.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture12.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture13.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture14.webp)
+        ![نمای کامپوزیت کارخانه](:aluminium-composite-facade-factory-picture15.webp)
+
+    - type: id_gas-station
+      project_name: "پروژه نمای کامپوزیت پمپ بنزین نایین اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با ورق نانو باند اجرا شده است با ظاهری بسیار زیبا و سیستم آبی اطفاء حریق در سقف کارگذاشته شده است."
+      img: ":aluminium-composite-facades-gas-station-red-1.webp"
+      img_title: "نمای کامپوزیت پمپ پنزین جایگاه"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت پمپ بنزین نایین (ارگ نیلوفر) اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید جایگاه سوخت‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-1.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-2.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-3.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-4.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-5.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-6.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-7.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-8.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-9.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-10.webp)
+        ![نمای کامپوزیت پمپ بنزین قرمز](:aluminium-composite-facades-gas-station-red-11.webp)
+
+    - type: id_gas-station
+      project_name: "پروژه نمای کامپوزیت پمپ بنزین اردستان اصفهان"
+      project_excerpt: این پروژه به سبک فیکس با ورق پرمیوم باند اجرا شده است با ظاهری بسیار شیک."
+      img: ":aluminium-composite-facades-gas-station-red-white4.webp"
+      img_title: "نمای کامپوزیت پمپ پنزین جایگاه"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت جایگاه پمپ بنزین اردستان به نایین (ظفرقند) اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید جایگاه سوخت‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت پمپ بنزین ضد حریق](:aluminium-composite-facades-gas-station-red-white1.webp)
+        ![نمای کامپوزیت پمپ بنزین ضد حریق](:aluminium-composite-facades-gas-station-red-white2.webp)
+        ![نمای کامپوزیت پمپ بنزین ضد حریق](:aluminium-composite-facades-gas-station-red-white3.webp)
+        ![نمای کامپوزیت پمپ بنزین ضد حریق](:aluminium-composite-facades-gas-station-red-white4.webp)
+        ![نمای کامپوزیت پمپ بنزین ضد حریق](:aluminium-composite-facades-gas-station-red-white5.webp)
+        ![نمای کامپوزیت پمپ بنزین ضد حریق](:aluminium-composite-facades-gas-station-red-white6.webp)
+        ![نمای کامپوزیت پمپ بنزین ضد حریق](:aluminium-composite-facades-gas-station-red-white7.webp)
+
+    - type: id_gas-station
+      project_name: "پروژه نمای کامپوزیت پمپ بنزین نارنجی مهر و ماه قم"
+      project_excerpt: "این پروژه به سبک فیکس توسط نصاب ارجمند آقای مقدسی با ورق آلومکس نارنجی و نوک مدادی اجرا شده است با ظاهری بسیار دلنشین و زیبا."
+      img: ":aluminium-composite-facade-gas-station-orange1.webp"
+      img_title: "نمای کامپوزیت پمپ پنزین جایگاه"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت و بخش اداری پمپ بنزین مجتمع تجاری توریستی مهر و ماه قم (جاده تهران قم) را در زیر مشاهده می‌کنید.
+        اگر قصد دارید جایگاه سوخت‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-orange1.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-orange2.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-orange3.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-orange4.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-orange5.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-orange6.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-orange7.webp)
+
+        تصاویر نمای قسمت اداری این جایگاه سوخت
+
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-gray1.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-gray2.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-gray3.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-gray4.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-gray5.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-gray6.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-gray7.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-gray8.webp)
+        ![نمای کامپوزیت پمپ بنزین](:aluminium-composite-facade-gas-station-gray9.webp)
+
+    - type: id_gas-station
+      project_name: "پروژه نمای کامپوزیت پمپ بنزین انتشاری در اصفهان"
+      project_excerpt: "این پروژه به سبک فرم اچ ال با ورق پرمیوم باند اجرا شده است. با ظاهری بسیار زیبا."
+      img: ":aluminium-composite-facade-gas-station-red-silver15.webp"
+      img_title: "نمای کامپوزیت مغازه جایگاه سوخت"
+      date: "2022-04-30"
+      post: |
+        تصاویر پروژه نمای کامپوزیت پمپ بنزین انتشاری در اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید جایگاه سوخت‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver1.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver2.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver3.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver4.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver5.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver6.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver7.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver8.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver9.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver10.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver11.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver12.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver13.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver14.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver15.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver16.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver17.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver18.webp)
+        ![نمای کامپوزیت پمپ بنزین جایگاه](:aluminium-composite-facade-gas-station-red-silver19.webp)
+
+    - type: id_gas-station
+      project_name: "پروژه نمای کامپوزیت پمپ بنزین مشتاق اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس و فرم با ورق پرمیوم باند اجرا شده است. با ظاهری بسیار زیبا."
+      img: ":aluminium-composite-facade-gas-station-blue-silver3.webp"
+      img_title: "نمای کامپوزیت مغازه جایگاه سوخت نقره ای"
+      date: "2022-04-30"
+      post: |
+        تصاویر پروژه نمای کامپوزیت پمپ بنزین مشتاق اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید جایگاه سوخت‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت پمپ بنزین نقره ای](:aluminium-composite-facade-gas-station-blue-silver1.webp)
+        ![نمای کامپوزیت پمپ بنزین نقره ای](:aluminium-composite-facade-gas-station-blue-silver2.webp)
+        ![نمای کامپوزیت پمپ بنزین نقره ای](:aluminium-composite-facade-gas-station-blue-silver3.webp)
+        ![نمای کامپوزیت پمپ بنزین نقره ای](:aluminium-composite-facade-gas-station-blue-silver4.webp)
+        ![نمای کامپوزیت پمپ بنزین نقره ای](:aluminium-composite-facade-gas-station-blue-silver5.webp)
+        ![نمای کامپوزیت پمپ بنزین نقره ای](:aluminium-composite-facade-gas-station-blue-silver6.webp)
+
+    - type: id_bank
+      project_name: "پروژه نمای کامپوزیت قرض الحسنه نور زرین شهر"
+      project_excerpt: "این پروژه به سبک فیکس با ورق نقره ایم نوک مدادی اجرا شده است."
+      img: ":aluminium-composite-facade-bank-sign-silver1.webp"
+      img_title: "نمای کامپوزیت بانک قرض الحسنه"
+      date: "2022-04-30"
+      post: |
+        تصویری از پروژه نمای کامپوزیت قرض الحسنه نور زرین شهر اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید بانک‌‌تان یا فروشگاه تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت بانک قرض الحسنه](:aluminium-composite-facade-bank-sign-silver1.webp)
+        ![نمای کامپوزیت بانک قرض الحسنه](:aluminium-composite-facade-bank-sign-silver2.webp)
+
+    - type: id_bank
+      project_name: "پروژه نمای کامپوزیت قرض الحسنه امام علی اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با ورق مسی، نوک مدادی و نقره ای اجرا شده است."
+      img: ":aluminium-composite-facade-bank-sign3.webp"
+      img_title: "نمای کامپوزیت بانک"
+      date: "2022-04-30"
+      post: |
+        برخی تصاویر از پروژه نمای کامپوزیت قرض الحسنه امام علی (ع) واقع در شاپور جدید اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید بانک‌‌تان یا فروشگاه تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت بانک](:aluminium-composite-facade-bank-sign1.webp)
+        ![نمای کامپوزیت بانک قرض الحسنه](:aluminium-composite-facade-bank-sign2.webp)
+        ![نمای کامپوزیت بانک قرض الحسنه](:aluminium-composite-facade-bank-sign3.webp)
+
+    - type: id_building
+      project_name: "پروژه نمای کامپوزیت ساختمان اداره برق در اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با ظرافت بالا و با ورق نقره ای در سال 1390 اجرا شده است."
+      img: ":aluminium-composite-facade-building-silver3.webp"
+      img_title: "نمای کامپوزیت ساختمان اداره"
+      date: "2022-04-30"
+      post: |
+        تصویر پروژه نمای کامپوزیت مجتمع تجاری اداری امیر در شاهین شهر اصفهان را مشاهده می‌کنید.
+        اگر قصد دارید ساختمانتان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت ساختمان اداره](:aluminium-composite-facade-building-silver1.webp)
+        ![نمای کامپوزیت ساختمان اداره](:aluminium-composite-facade-building-silver2.webp)
+        ![نمای کامپوزیت ساختمان اداره](:aluminium-composite-facade-building-silver3.webp)
+        ![نمای کامپوزیت ساختمان اداره](:aluminium-composite-facade-building-silver4.webp)
+
+    - type: id_building
+      project_name: "پروژه نمای کامپوزیت ساختمان میلاد در اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با ظرافت بالا و با ورق مسی و شیری اجرا شده است."
+      img: ":aluminium-composite-facade-building-tehran2.webp"
+      img_title: "نمای کامپوزیت ساختمان"
+      date: "2022-04-30"
+      post: |
+        تصویر پروژه نمای کامپوزیت مجتمع تجاری اداری امیر در شاهین شهر اصفهان را مشاهده می‌کنید.
+        اگر قصد دارید ساختمانتان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت ساختمان مسکونی](:aluminium-composite-facade-building-tehran1.webp)
+        ![نمای کامپوزیت ساختمان مسکونی](:aluminium-composite-facade-building-tehran2.webp)
+        ![نمای کامپوزیت ساختمان مسکونی](:aluminium-composite-facade-building-tehran3.webp)
+
+    - type: id_building
+      project_name: "پروژه نمای کامپوزیت مجتمع مسکونی جوادیان در اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس و با ورق نقره ای و نوک مدادی با ظاهری زیبا اجرا شده است ."
+      img: ":aluminium-composite-facade-residential-building3.webp"
+      img_title: "نمای کامپوزیت ساختمان"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت مجتمع مسکونی جوادیان واقع در خیابان غرضی، خیابان ساکت اصفهانی که در سال 1390 اجرا شده در اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید ساختمانتان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت ساختمان مسکونی](:aluminium-composite-facade-residential-building1.webp)
+        ![نمای کامپوزیت ساختمان مسکونی](:aluminium-composite-facade-residential-building2.webp)
+        ![نمای کامپوزیت ساختمان مسکونی](:aluminium-composite-facade-residential-building3.webp)
+
+    - type: id_tower
+      project_name: "پروژه نمای کامپوزیت مجتمع فردوس غرب در تهران"
+      project_excerpt: "این پروژه به سبک هنگ و ( ناودانی آلومینیومی ) اجرا شده است با ظاهری بسیار مدرن و زیبا."
+      img: ":aluminium-composite-facades-tower-tehran10.webp"
+      img_title: "نمای کامپوزیت برج"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت مجتمع فردوس غرب در تهران را در زیر مشاهده می‌کنید.
+        اگر قصد دارید مجتمع و یا ساختمانتان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran1.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran2.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran3.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran4.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran5.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran6.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran7.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran8.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran9.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran10.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran11.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran12.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran14.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran13.webp)
+        ![نمای کامپوزیت در تهران](:aluminium-composite-facades-tower-tehran15.webp)
+
+    - type: id_tower
+      project_name: "پروژه نمای کامپوزیت برج‌ های آفتاب در اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس اجرا شده است با ظاهری بسیار مدرن و زیبا."
+      img: ":aluminium-composite-facades-tower-isfahan-1.webp"
+      img_title: "نمای کامپوزیت در اصفهان"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت برج‌ های آفتاب در اصفهان که در سال 1390 اجرا گردید را در زیر مشاهده می‌کنید.
+        اگر قصد دارید مجتمع و یا ساختمانتان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت در اصفهان](:aluminium-composite-facades-tower-isfahan-1.webp)
+        ![نمای کامپوزیت در اصفهان](:aluminium-composite-facades-tower-isfahan-2.webp)
+        ![نمای کامپوزیت در اصفهان](:aluminium-composite-facades-tower-isfahan-3.webp)
+
+    - type: id_tower
+      project_name: "پروژه نمای کامپوزیت برج‌ های فولاد تعاونی مسکن"
+      project_excerpt: "این پروژه به سبک فیکس و با ورق نقره ای و نوک مدادی با ظاهری زیبا اجرا شده است ."
+      img: ":aluminium-composite-facade-tower-tehran1.webp"
+      img_title: "نمای کامپوزیت برج"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت مجتمع مسکونی جوادیان واقع در خیابان غرضی، خیابان ساکت اصفهانی که در سال 1390 اجرا شده در اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید ساختمانتان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت برج](:aluminium-composite-facade-tower-tehran1.webp)
+        ![نمای کامپوزیت برج](:aluminium-composite-facade-tower-tehran2.webp)
+        ![نمای کامپوزیت برج](:aluminium-composite-facade-tower-tehran3.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت فست فود شادلی در اصفهان"
+      project_excerpt: "این پروژه در سال 1390 به سبک فیکس با ورق نقره ای اجرا شده است."
+      img: ":aluminium-composite-facade-shop-sign-fast-food2.webp"
+      img_title: "نمای کامپوزیت مغازه فست فود"
+      date: "2022-04-30"
+      post: |
+        تصاویر پروژه نمای کامپوزیت فست فود شادلی در اصفهان واقع در پل غدیر را مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مغازه فست فود](:aluminium-composite-facade-shop-sign-fast-food1.webp)
+        ![نمای کامپوزیت مغازه فست فود](:aluminium-composite-facade-shop-sign-fast-food2.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت مغازه گل‌فروشی در گلدشت اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با ورق سفید یخچالی و قرمز اجرا شده است با ظاهری بسیار شیک."
+      img: ":aluminium-composite-facades-store-supermarket-3.webp"
+      img_title: "نمای کامپوزیت مغازه سفید"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت مغازه گل‌فروشی در گلدشت اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facades-store-supermarket-1.webp)
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facades-store-supermarket-2.webp)
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facades-store-supermarket-3.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت مغازه پوشاک در خمینی‌شهر اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با ورق سفید یخچالی،مشکی و قرمز اجرا شده است با ظاهری بسیار مدرن و زیبا."
+      img: ":aluminium-composite-facades-store-sign-3.webp"
+      img_title: "نمای کامپوزیت مغازه سفید"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت مغازه پوشاک در خمینی‌شهر اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facades-store-sign-1.webp)
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facades-store-sign-2.webp)
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facades-store-sign-3.webp)
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facades-store-sign-4.webp)
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facades-store-sign-5.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت فروشگاه در خمینی‌شهر اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس و  با ورق شیری، قرمز و مشکی اجرا شده است با ظاهری بسیار مدرن و زیبا نور پردازی و استفاده از لوله های استیل."
+      img: ":aluminium-composite-facades-store-picture3.webp"
+      img_title: "نمای کامپوزیت سفید"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت فروشگاه در خمینی‌شهر اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مغاز سفید](:aluminium-composite-facades-store-picture1.webp)
+        ![نمای کامپوزیت مغاز سفید](:aluminium-composite-facades-store-picture2.webp)
+        ![نمای کامپوزیت مغاز سفید](:aluminium-composite-facades-store-picture3.webp)
+        ![نمای کامپوزیت مغاز سفید](:aluminium-composite-facades-store-picture4.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت مغازه نقره ای و طرح چوب شاهین شهر"
+      project_excerpt: "این پروژه به سبک فیکس اجرا شده است."
+      img: ":aluminium-composite-facade-shop-sign-wood1.webp"
+      img_title: "نمای کامپوزیت مغازه نقره ای و طرح چوب"
+      date: "2022-04-30"
+      post: |
+        تصاویر پروژه نمای کامپوزیت مغازه نقره ای و طرح چوب در شاهین شهر را مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مغازه طرح چوب](:aluminium-composite-facade-shop-sign-wood1.webp)
+        ![نمای کامپوزیت مغازه طرح چوب](:aluminium-composite-facade-shop-sign-wood2.webp)
+        ![نمای کامپوزیت مغازه طرح چوب](:aluminium-composite-facade-shop-sign-wood3.webp)
+        ![نمای کامپوزیت مغازه طرح چوب](:aluminium-composite-facade-shop-sign-wood4.webp)
+        ![نمای کامپوزیت مغازه طرح چوب](:aluminium-composite-facade-shop-sign-wood5.webp)
+        ![نمای کامپوزیت مغازه طرح چوب](:aluminium-composite-facade-shop-sign-wood6.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت آتش نشانی در شهرضا"
+      project_excerpt: "این پروژه به سبک فیکس اجرا شده است."
+      img: ":aluminium-composite-facade-shop-sign-red.webp"
+      img_title: "نمای کامپوزیت آتش نشانی"
+      date: "2022-04-30"
+      post: |
+        پروژه نمای کامپوزیت آتش نشانی در شهرضا اصفهان را مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان یا سر در ایستگاه و اداره آتش نشانی شهرتان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مغازه طرح چوب](:aluminium-composite-facade-shop-sign-red.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت کافی شاپ مهتاب در اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس اجرا شده است."
+      img: ":aluminium-composite-facade-shop-sign-cofe-shop.webp"
+      img_title: "نمای کامپوزیت کافی شاپ"
+      date: "2022-04-30"
+      post: |
+        پروژه نمای کامپوزیت کافی شاپ مهتاب رئوفی در اصفهان را مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان یا تابلو سر در کافی شاپ تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت کافی شاپ مغازه](:aluminium-composite-facade-shop-sign-cofe-shop.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت فراورده‌های لبنی کوهستان اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با به کارگیری لوله استیل در سه رنگ ورق زرد قرمز و سفید اجرا شده است."
+      img: ":aluminium-composite-facade-shop-sign-yellow-white-red1.webp"
+      img_title: "نمای کامپوزیت مغازه"
+      date: "2022-04-30"
+      post: |
+        برخی تصاویر از پروژه نمای کامپوزیت فراورده‌های لبنی کوهستان ملکوتی اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان یا تابلو سر در کافی شاپ تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مغازه](:aluminium-composite-facade-shop-sign-yellow-white-red1.webp)
+        ![نمای کامپوزیت مغازه](:aluminium-composite-facade-shop-sign-yellow-white-red2.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت حکیم الهی در جاده اصفهان شیراز"
+      project_excerpt: "این پروژه نمای کامپوزیت مغازه که مشاهده می‌کنید، به سبک فیکس با ورق نوک مدادی و قرمز اجرا شده است."
+      img: ":aluminium-composite-facade-shop-sign-picture3.webp"
+      img_title: "نمای کامپوزیت مغازه جاده اصفهان به شیراز"
+      date: "2022-04-30"
+      post: |
+        تصاویر پروژه نمای کامپوزیت حکیم الهی واقع در جاده اصفهان به شیراز را مشاهده می‌کنید.
+        اگر قصد دارید مغازه‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مغازه جاده اصفهان به شیراز](:aluminium-composite-facade-shop-sign-picture1.webp)
+        ![نمای کامپوزیت مغازه جاده اصفهان به شیراز](:aluminium-composite-facade-shop-sign-picture2.webp)
+        ![نمای کامپوزیت مغازه جاده اصفهان به شیراز](:aluminium-composite-facade-shop-sign-picture3.webp)
+        ![نمای کامپوزیت مغازه جاده اصفهان به شیراز](:aluminium-composite-facade-shop-sign-picture4.webp)
+
+    - type: id_shop-sign
+      project_name: "پروژه نمای کامپوزیت مغازه موبایل در خیابان طوسی اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با ورق پرمیوم باند اجرا شده است با ظاهری شیک و دلباز."
+      img: ":aluminium-composite-facade-shop-sign-1.webp"
+      img_title: "نمای کامپوزیت مغازه"
+      date: "2022-04-30"
+      post: |
+        برخی تصاویر از پروژه نمای کامپوزیت مغازه موبایل در خیابان طوسی اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facade-shop-sign-1.webp)
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facade-shop-sign-2.webp)
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facade-shop-sign-3.webp)
+        ![نمای کامپوزیت مغازه سفید](:aluminium-composite-facade-shop-sign-4.webp)
+
+    - type: id_building
+      project_name: "پروژه نمای کامپوزیت اتاق نگهبانی مجتمع مسکونی حکیم شفائی"
+      project_excerpt: "این پروژه به سبک فیکس و کلیپس با ظرافت بالا و کم نظیر با ورق نقره ای به صورت کرو کرکره ای اجرا شده است."
+      img: ":aluminium-composite-facade-shop-sign-residential-building2.webp"
+      img_title: "نمای کامپوزیت"
+      date: "2022-04-30"
+      post: |
+        برخی تصاویر از پروژه نمای کامپوزیت اتاق نگهبانی مجتمع مسکونی حکیم شفائی در اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان یا ساختمان و... را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت](:aluminium-composite-facade-shop-sign-residential-building1.webp)
+        ![نمای کامپوزیت](:aluminium-composite-facade-shop-sign-residential-building2.webp)
+
+    - type: id_building
+      project_name: "پروژه نمای کامپوزیت ساختمان تالار علی ابن موسی الرضا"
+      project_excerpt: "این پروژه به سبک فیکس اجرا شده است."
+      img: ":aluminium-composite-facade-hall-building1.webp"
+      img_title: "نمای کامپوزیت"
+      date: "2022-04-30"
+      post: |
+        برخی تصاویر از پروژه نمای کامپوزیت تالار علی ابن موسی الرضا واقع در اصفهان شهرگز فلکه مرکزی را در زیر مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان یا ساختمان و... را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت تالار](:aluminium-composite-facade-hall-building1.webp)
+        ![نمای کامپوزیت ساختمان تالار](:aluminium-composite-facade-hall-building2.webp)
+        ![نمای کامپوزیت](:aluminium-composite-facade-hall-building3.webp)
+        ![نمای کامپوزیت](:aluminium-composite-facade-hall-building4.webp)
+
+    - type: id_building
+      project_name: "پروژه نمای کامپوزیت اتاق گزارشگر استادیوم فوتبال ورزشگاه فولادشهر"
+      project_excerpt: "این پروژه به سبک فیکس با ورق یکدست نقره ای اجرا شده است."
+      img: ":aluminium-composite-facade-building-3.webp"
+      img_title: "نمای کامپوزیت ورزشگاه"
+      date: "2022-04-30"
+      post: |
+        برخی تصاویر از پروژه نمای کامپوزیت اتاق گزارشگر استادیوم فوتبال در ورزشگاه فولادشهر اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان یا ساختمان و... را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت ورزشگاه](:aluminium-composite-facade-building-1.webp)
+        ![نمای کامپوزیت ورزشگاه](:aluminium-composite-facade-building-2.webp)
+        ![نمای کامپوزیت ورزشگاه](:aluminium-composite-facade-building-3.webp)
+
+    - type: id_building
+      project_name: "پروژه اجرای نمای کامپوزیت شهرداری شهر اذان در میمه اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس با ورق آلوباند اجرا شده است با ظاهری بسیار مدرن و زیبا."
+      img: ":aluminium-composite-facades-house-9.webp"
+      img_title: "عکس نمای کامپوزیت"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه اجرای نمای کامپوزیت شهرداری شهر اذان در میمه اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید تابلو مغازه‌تان یا ساختمان و... را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![عکس نمای کامپوزیت](:aluminium-composite-facades-house-1.webp)
+        ![عکس نمای کامپوزیت](:aluminium-composite-facades-house-2.webp)
+        ![عکس نمای کامپوزیت](:aluminium-composite-facades-house-3.webp)
+        ![عکس نمای کامپوزیت](:aluminium-composite-facades-house-4.webp)
+        ![عکس نمای کامپوزیت](:aluminium-composite-facades-house-5.webp)
+        ![عکس نمای کامپوزیت](:aluminium-composite-facades-house-6.webp)
+        ![عکس نمای کامپوزیت](:aluminium-composite-facades-house-7.webp)
+        ![عکس نمای کامپوزیت](:aluminium-composite-facades-house-8.webp)
+        ![عکس نمای کامپوزیت](:aluminium-composite-facades-house-9.webp)
+
+    - type: id_mosque
+      project_name: "پروژه نمای کامپوزیت مناره مسجد امام سجاد در خمینی‌شهر اصفهان"
+      project_excerpt: "این پروژه به سبک فیکس و کلیپس با ورق طلایی مات اجرا شده است با ظاهری بسیار مدرن و زیبا."
+      img: ":aluminium-composite-facades-mosque-2.webp"
+      img_title: "نمای کامپوزیت مسجد"
+      date: "2022-04-30"
+      post: |
+        برخی از تصاویر پروژه نمای کامپوزیت مناره مسجد امام سجاد در خمینی‌شهر اصفهان را در زیر مشاهده می‌کنید.
+        اگر قصد دارید مسجد منطقه‌تان یا ساختمان و... را با [نمای کامپوزیت](https://composite-panel.ir) بازسازی یا نما کنید، همین حالا با ما [تماس](tel:09122448082) بگیرید.
+
+        ![نمای کامپوزیت مسجد](:aluminium-composite-facades-mosque-1.webp)
+        ![نمای کامپوزیت مسجد](:aluminium-composite-facades-mosque-2.webp)
+        ![نمای کامپوزیت مسجد](:aluminium-composite-facades-mosque-3.webp)
+        ![نمای کامپوزیت مسجد](:aluminium-composite-facades-mosque-4.webp)
