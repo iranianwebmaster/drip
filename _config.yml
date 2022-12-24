@@ -120,6 +120,6 @@ sass:
 ###########################################################
 exclude: ["Gemfile*", "README*", "LICENSE", "docs"]
 
-url: "https://composite-panel.ir"
+url: "https://iranianwebmaster.github.io/drip/"
 plugins:
   - jekyll-sitemap
