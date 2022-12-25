@@ -14,22 +14,22 @@ page_data:
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "نمای کامپوزیت"
-      type: id_composite
+    - title: "همکاران"
+      type: id_servers
       color: "gray"
-    - title: "نمای ترموود"
-      type: id_termo
+    - title: "مشتریان"
+      type: id_clients
       color: "gray"
 
   list:
     -
-    - type: id_termo
-      title: "اصفهان ترموود"
-      url: "https://wood.composite-isfahan.ir/"
-      info: "نمونه کارها و مقاله های مفید ترموود"
+    - type: id_servers
+      title: "قیمت سئو"
+      url: "https://zamtar.ir/"
+      info: "پلن ها و توضیحات کامل خدمات سئو زمتر طراح"
 
-    - type: id_composite
-      title: "اصفهان کامپوزیت"
-      url: "https://composite-isfahan.ir/"
-      info: "نمونه کارها و مقاله های مفید کامپوزیت"
+    - type: id_clients
+      title: "نوار تیپ"
+      url: "https://atrakdrip.ir/"
+      info: "شرکت اترک دریپ"
 ---
