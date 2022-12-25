@@ -125,14 +125,14 @@ post-list:
 
 # for home layout
 home:
-  title: نمای کامپوزیت
+  title: اسکیورام
   button_name: خانه
   new_posts_title: نوشته‌های جدید
   new_posts_show_more_button: بیشتر ...
   # you can use $site_brand in line1 and line2 to convert your site.data.owner.brand text
-  top_header_line1: "نمای کامپوزیت"
+  top_header_line1: "اسکیورام"
   # if commented, top header will be a single line
-  top_header_line2: "09122448082"
+  top_header_line2: "09154488820"
 
 # for archives layout
 archives:
@@ -144,7 +144,7 @@ archives:
 about:
   title: درباره
   button_name: درباره
-  sub_title: "نمای کامپوزیت"
+  sub_title: "اسکیورام"
   email_title: ایمیل
 
 # for links layout
@@ -168,14 +168,14 @@ privacy-policy:
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
 # if it has no content, this will be used for page description. It is also used in manifest.json
-meta_common_description: قیمت | ورق کامپوزیت
+meta_common_description: قیمت | تبلیغات اینترنتی 
 
 auto_content:
   title: پست خودکار
-  greeting: طراحی و اجرای نمای کامپوزیت و چوب ترموود
+  greeting: طراحی وبسایت و تبلیغات اینترنتی
   text: *meta_info
   more_info: اطلاعات بیشتر
-  auto_generated_text: به نام یگانه معمار هستی . شرکت اصفهان کامپوزیت یکی از با تجربه ترین مجری نماهای مدرن می باشد که با شناخت صحیح نیاز مشتریان وبهره گیری از دانش روز دنیا توانسته است حضوری متفاوت در راستای مشاوره،طراحی و اجرای نماهای کامپوزیت آلومینیوم،لامل و شیشه فریم لس با تنوع رنگی قابل توجه و کیفیت بالا و منحصر به فرد داشته باشد. به پشتوانه تجربه و توان فنی مدیریت و کادر متخصص و مجرب این شرکت و چندین سال سابقه اجرا و خدمات فنی مهندسی نما توانسته ایم پروژه های موفقی را در رزومه خود داشته باشیم.مایه مباهات این شرکت است که نام پروژه های بزرگ همچون نگینی در فهرست زرین این شرکت میدرخشد. شایان توجه است نظارت ویژه،نبوغ طراحی و اجرای نما از مهمترین نقاط تمایز این شرکت می باشد.
+  auto_generated_text: به نام یگانه معمار هستی . اسکیورام یکی از با تجربه ترین طراحان و مبلغ در زمینه اینترنت می باشد که با شناخت صحیح نیاز مشتریان و بهره گیری از دانش روز دنیا توانسته است حضوری متفاوت در راستای مشاوره،طراحی و بهینه سازی سئو وبسایت ها داشته باشد.
 
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title

@@ -61,7 +61,6 @@ kramdown:
 # Plugins (Plugins supported by GitHub Pages https://pages.github.com/versions/)
 ###########################################################
 plugins:
-  - jekyll-paginate
   - jekyll-redirect-from
 
 
@@ -76,7 +75,7 @@ whitelist:
 paginate_path: "/tabs/blog/:num"
 # number of post per page
 # make sure this matches with post_query_paginator_post_per_page in _data/conf/posts.yml
-paginate: 5
+paginate: 3
 
 ###########################################################
 # jekyll-redirect-from (https://github.com/jekyll/jekyll-redirect-from)
@@ -124,3 +123,4 @@ exclude: ["Gemfile*", "README*", "LICENSE", "docs"]
 url: "https://sqrom.ir"
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate

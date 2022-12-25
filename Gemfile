@@ -5,7 +5,7 @@ source "https://rubygems.org"
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
-#   gem "jekyll-paginate", "~> 1.1.0"
+  gem "jekyll-paginate", "~> 1.1.0"
 #   gem "jekyll-redirect-from", "~> 0.16.0"
 # end
 
@@ -29,4 +29,4 @@ gem "webrick", "~> 1.7"
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-sitemap'
-gem "jekyll-paginate", "~> 1.1.0"
+
