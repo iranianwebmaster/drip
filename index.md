@@ -4,7 +4,7 @@ layout: home
 lng_pair: id_home
 
 # image for page specific usage
-img: ":aluminium-composite-panel.avif"
+img: ":sq.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 date: 2022-04-30 02:59 +0330
