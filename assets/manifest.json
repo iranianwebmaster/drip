@@ -1,7 +1,19 @@
----
-layout: json/manifest
+{
+  "short_name": "اسکیورام's App",
+  "name": "اسکیورام's App",
+  "description": "قیمت | تبلیغات اینترنتی",
+  "icons": [
+  {
+    "src": "/assets/img/favicons/composite-sheet.webp",
+    "sizes": "32x32",
+    "type": "image/webp",
+    "purpose": "any maskable"
+  }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#808080",
+  "background_color": "#808080"
+}
 
-# optional
-# to disable this page, simply set published: false or delete this file
-#published: false
----
