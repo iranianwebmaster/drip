@@ -4,7 +4,7 @@ title: قیمت لوله 16 اینچ پلی اتیلن اصفهان 400
 date: 2022-12-31 15:26 +0330
 lng_pair: id_11
 author: Aslani
-category: article
+category: polyethylene-pipe-price-isfahan
 keywords: لوله پلی اتیلن
 tags: [قیمت لوله پلی اتیلن
 خرید لوله پلی اتیلن,
