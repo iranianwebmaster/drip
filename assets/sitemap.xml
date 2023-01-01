@@ -1,98 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-xmlns:xhtml="http://www.w3.org/1999/xhtml"
-xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
-  <url>
-    <loc>http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-400-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-16-%D8%A7%DB%8C%D9%86%DA%86/</loc>
-    <lastmod>2022-12-25T02:06:00+03:30</lastmod>
-    <image:image>
-      <image:loc>http://localhost:4000/assets/img/posts/16-inch-polyethylene-pipe-400-price-isfahan-1.jpg</image:loc>
-      <image:title>قیمت لوله 16 اینچ پلی اتیلن اصفهان 400</image:title>
-    </image:image>
+---
+layout: xml/sitemap
 
+# optional
+# to disable this page, simply set published: false or delete this file
+#published: false
 
-  </url>
-  <url>
-    <loc>http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-250-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-10-%D8%A7%DB%8C%D9%86%DA%86/</loc>
-    <lastmod>2022-12-25T02:06:00+03:30</lastmod>
-    <image:image>
-      <image:loc>http://localhost:4000/assets/img/posts/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-250-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-10-%D8%A7%DB%8C%D9%86%DA%86-1.jpg</image:loc>
-      <image:title>قیمت لوله 10 اینچ پلی اتیلن اصفهان 250</image:title>
-    </image:image>
-
-
-  </url>
-  <url>
-    <loc>http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-315-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-12-%D8%A7%DB%8C%D9%86%DA%86/</loc>
-    <lastmod>2022-12-25T02:06:00+03:30</lastmod>
-    <image:image>
-      <image:loc>http://localhost:4000/assets/img/posts/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-315-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-12-%D8%A7%DB%8C%D9%86%DA%86-1.jpg</image:loc>
-      <image:title>قیمت لوله 12 اینچ پلی اتیلن اصفهان 315</image:title>
-    </image:image>
-
-
-        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-315-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-12-%D8%A7%DB%8C%D9%86%DA%86/" />
-      <xhtml:link rel="alternate" hreflang="fa-IR" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-315-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-12-%D8%A7%DB%8C%D9%86%DA%86/" />
-        <xhtml:link rel="alternate" hreflang="fa" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-315-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-12-%D8%A7%DB%8C%D9%86%DA%86/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-200-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-8-%D8%A7%DB%8C%D9%86%DA%86/" />
-      <xhtml:link rel="alternate" hreflang="fa-IR" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-200-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-8-%D8%A7%DB%8C%D9%86%DA%86/" />
-        <xhtml:link rel="alternate" hreflang="fa" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-200-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-8-%D8%A7%DB%8C%D9%86%DA%86/" />
-  </url>
-  <url>
-    <loc>http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-200-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-8-%D8%A7%DB%8C%D9%86%DA%86/</loc>
-    <lastmod>2022-12-25T02:06:00+03:30</lastmod>
-    <image:image>
-      <image:loc>http://localhost:4000/assets/img/posts/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-200-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-8-%D8%A7%DB%8C%D9%86%DA%86-1.jpg</image:loc>
-      <image:title>قیمت لوله 8 اینچ پلی اتیلن اصفهان 200</image:title>
-    </image:image>
-
-
-        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-315-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-12-%D8%A7%DB%8C%D9%86%DA%86/" />
-      <xhtml:link rel="alternate" hreflang="fa-IR" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-315-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-12-%D8%A7%DB%8C%D9%86%DA%86/" />
-        <xhtml:link rel="alternate" hreflang="fa" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-315-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-12-%D8%A7%DB%8C%D9%86%DA%86/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-200-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-8-%D8%A7%DB%8C%D9%86%DA%86/" />
-      <xhtml:link rel="alternate" hreflang="fa-IR" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-200-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-8-%D8%A7%DB%8C%D9%86%DA%86/" />
-        <xhtml:link rel="alternate" hreflang="fa" href="http://localhost:4000/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-200-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-8-%D8%A7%DB%8C%D9%86%DA%86/" />
-  </url>
-  <url>
-    <loc>http://localhost:4000/tabs/about.html</loc>
-
-
-  </url>
-  <url>
-    <loc>http://localhost:4000/tabs/archive.html</loc>
-
-
-  </url>
-  <url>
-    <loc>http://localhost:4000/tabs/blog/</loc>
-
-
-  </url>
-  <url>
-    <loc>http://localhost:4000/</loc>
-    <lastmod>2022-12-25T12:32:00+03:30</lastmod>
-
-
-  </url>
-  <url>
-    <loc>http://localhost:4000/tabs/links.html</loc>
-
-
-  </url>
-  <url>
-    <loc>http://localhost:4000/tabs/projects.html</loc>
-    <lastmod>2022-04-30T05:59:00+03:30</lastmod>
-
-
-  </url>
-  <url>
-    <loc>http://localhost:4000/tabs/blog/2/</loc>
-
-
-  </url>
-</urlset>
-
+# page specific settings
+# this will add all pages lastmod prop to current date. (if date is not defined in corresponding page)
+add_page_lastmod_current_date: false
+add_post_thumb_pics: true
+add_post_thumb_pics_title: true
+add_post_thumb_pics_caption: false
+add_hreflang: true
+#image_license_url: "https://example.com/image-license"
+#changefreq: monthly
+#priority: "1.0"
+---

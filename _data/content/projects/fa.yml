@@ -1,0 +1,41 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
+page_data:
+  main:
+    header: "پروژه‌ها"
+    info: "برخی از نمونه‌کارهای انجام شده توسط شرکت ما در زیر لیست شده است."
+    text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
+    img: ":aluminium-composite-projects.avifs"
+    back_color: "lightblue"
+
+  category:
+    - title: "فروشگاه"
+      type: id_shop
+      color: "black"
+    - title: "شرکت"
+      type: id_company
+      color: "black"
+      
+  list:
+    - type: id_shop
+      project_name: "یکتا دریپ"
+      project_excerpt: "فروشگاه نوار تیپ"
+      img: ":aluminium-composite-Commercial-Complex.webp"
+      img_title: "mmm"
+      date: "2022-04-30"
+      post: |
+       شرح
+
+    - type: id_company
+      project_name: "اترک دریپ"
+      project_excerpt: "شرکت تولید نوار تیپ و لوله پلی اتیلن"
+      img: ":aluminium-composite-Commercial-Complex-image1.webp"
+      img_title: "mmmm"
+      date: "2022-04-30"
+      post: |
+       شرح
+
+        

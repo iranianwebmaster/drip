@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<browserconfig>
-  <msapplication>
-    <tile>
-      <square150x150logo src="/assets/img/favicons/mstile-150x150.png"/>
-      <TileColor>#2d89ef</TileColor>
-    </tile>
-  </msapplication>
-</browserconfig>
+---
+layout: xml/browserconfig
 
+# optional
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
