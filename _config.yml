@@ -52,7 +52,6 @@ defaults:
 ###########################################################
 # This is default for GitHub Pages sites and cannot be changed.
 highlighter: rouge
-encoding: utf-8
 markdown: kramdown
 kramdown:
   # This is default for GitHub Pages sites and cannot be changed.
