@@ -30,4 +30,7 @@ gem "webrick", "~> 1.7"
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
+gem 'jekyll-utf8'
+
+
 
