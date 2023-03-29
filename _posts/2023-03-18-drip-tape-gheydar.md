@@ -7,7 +7,7 @@ category: drip-tape
 keywords: نوار تیپ قیدار
 tags: [نوارتیپ قیدار,نوار آبیاری قیدار,نوار قطره قیدار,
 ]
-img: ":drip-tape-gheydar-1.webp"
+img: "https://atrakdrip.ir/image/نوار-تیپ-قیدار-1.webp"
 permalink: /drip-irrigation-tape-gheydar/
 meta_modify_date: 2023-03-18 02:01 +0330
 meta_description: "نوار تیپ قیدار قیمت خرید لیست انواع نوار آبیاری قطره ای کدو سیب زمینی لوبیا گوجه خربزه هندوانه گرمک گندم جو ذرت سیفی جات لوله پلی اتیلن لوله قطره ای"
@@ -46,7 +46,7 @@ faq:
 | بسته بندی: | شیرینگ |
 | ضمانت: | یک فصل کشت زراعی |
 
-<figure role="group"><img src=":drip-tape-gheydar-2.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-2.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
  انواع نوار تیپ قیدار و تفاوت‌ها
 ------------------------------------
@@ -112,7 +112,7 @@ faq:
 | نوار تیپ هندوانه | 30 سانتی |
 | نوار تیپ ذرت و گندم | 10 سانتی |
 
-<figure role="group"><img src=":drip-tape-gheydar-3.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-3.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### حداکثر فشار آب درون نوار تیپ قیدار
@@ -148,7 +148,7 @@ faq:
 | رنگی | تولید قطعات رنگی از مواد پلاستیکی | رنگ مشکی به کار می‌رود |
 | پرکننده | برای کاهش قیمت و بهبود خواص | کاربرد ندارد |
 
-<figure role="group"><img src=":drip-tape-gheydar-12.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-12.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 مزایای استفاده از نوار آبیاری قطره ای ( نوارتیپ )
 -------------------------------------------------
@@ -174,7 +174,7 @@ faq:
 
 [قیمت لوله کشاورزی قیدار](https://atrakdrip.ir/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86/)
 
-<figure role="group"><img src=":drip-tape-gheydar-4.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-4.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 بررسی کارآمدی نوار تیپ قیدار
 --------------------------------
@@ -185,7 +185,7 @@ faq:
 
 نوار تیپ قیدار
 
-<figure role="group"><img src=":drip-tape-gheydar-5.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-5.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 نحوه تعیین قیمت نوار تیپ
 ------------------------
@@ -201,7 +201,7 @@ faq:
 
 #### [قیمت لوله پلی اتیلن 25](https://atrakdrip.ir/%d9%82%db%8c%d9%85%d8%aa-%d9%84%d9%88%d9%84%d9%87-%d9%be%d9%84%db%8c-%d8%a7%d8%aa%db%8c%d9%84%d9%86-25-%d9%85%db%8c%d9%84%db%8c%d9%85%d8%aa%d8%b1/)
 
-<figure role="group"><img src=":drip-tape-gheydar-13.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-13.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 نکات تولید نوار تیپ کشاورزی مرغوب
 ---------------------------------
@@ -220,7 +220,7 @@ faq:
 #### [حمل و نقل](https://atrakdrip.ir/حمل-و-نقل-نوار-آبیاری-قطره-ای/)
 
 برای جلوگیری از بروز مشکلاتی از قبیل له شدن و پیچ خوردگی و… نوار های آبیاری در هنگام حمل و نقل  بارگیری , از کارخانه برای ارسال به سایر نقاط کشور و خارج از کشور به بهترین نحو صورت می‌گیرد.
-<figure role="group"><img src=":drip-tape-gheydar-6.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-6.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 آموزش نحوه [نصب](https://atrakdrip.ir/%d8%b1%d9%88%d8%b4-%d9%86%d8%b5%d8%a8-%d9%86%d9%88%d8%a7%d8%b1-%d8%aa%db%8c%d9%be-%d9%82%d8%b7%d8%b1%d9%87-%d8%a7%db%8c/) صحیح نوار تیپ
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -241,7 +241,7 @@ faq:
 
 * * *
 
-<figure role="group"><img src=":drip-tape-gheydar-7.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-7.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 #### شرایط تعلق ضمانت نوار تیپ به کشاورز
 
@@ -267,7 +267,7 @@ faq:
 
 فروش پایان کار ما نیست , آغاز تعهد ماست …..
 
-<figure role="group"><img src=":drip-tape-gheydar-14.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-14.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 نحوه محاسبه رول نوار تیپ قیدار در هر هکتار
 ----------------------------------------------
@@ -307,7 +307,7 @@ faq:
 
 [قیمت لوله کشاورزی 110 4 اینچ](https://atrakdrip.ir/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-4-%D8%A7%DB%8C%D9%86%DA%86-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-110-pipe/)
 
-<figure role="group"><img src=":drip-tape-gheydar-15.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-15.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 نصب اصولی نوار تیپ قیدار
 ----------------------------
@@ -324,7 +324,7 @@ faq:
 
 روش نصب آبیاری قطره ای و [کارهایی که نباید انجام داد](https://atrakdrip.ir/%da%a9%d8%a7%d8%b1%d9%87%d8%a7%db%8c%db%8c-%da%a9%d9%87-%d8%af%d8%b1-%d8%a2%d8%a8%db%8c%d8%a7%d8%b1%db%8c-%d9%82%d8%b7%d8%b1%d9%87-%d8%a7%db%8c-%d9%86%d8%a8%d8%a7%db%8c%d8%af-%d8%a7%d9%86%d8%ac%d8%a7/)
 
-<figure role="group"><img src=":drip-tape-gheydar-16.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-16.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 ### مقایسه روش نوار تیپ قطره‌ای با روش آبیاری بارانی :
 
@@ -350,7 +350,7 @@ faq:
 نوار تیپ قیدار
 
 پس از نصب لوله های نوار تیپ در مزرعه و در آبیاری های اولیه با این سیستم تا قبل از توسعه گیاه در سطح خاک مزرعه ضروری است که کشاورزان محترم دقت و توجه بیشتری بر سیستم تیپ مزرعه خود داشته تا از کارکرد مناسب آن مطمئن شوند. چرا که پس از استقرار گیاه و افزایش سطح سبز مزرعه، بازدید از نوار آبیاری غیر ممکن و یا دشوار خواهد بود.
-<figure role="group"><img src=":drip-tape-gheydar-7.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-7.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 #### [قیمت لوله پلی اتیلن 2 اینچ](https://atrakdrip.ir/%d9%82%db%8c%d9%85%d8%aa-%d9%84%d9%88%d9%84%d9%87-%d9%be%d9%84%db%8c-%d8%a7%d8%aa%db%8c%d9%84%d9%86-2-%d8%a7%db%8c%d9%86%da%86-%d8%b3%d8%a7%db%8c%d8%b2-63/)
 
@@ -378,7 +378,7 @@ faq:
 
 #### [قیمت لوله پلی اتیلن 75](https://atrakdrip.ir/%d9%82%db%8c%d9%85%d8%aa-%d9%84%d9%88%d9%84%d9%87-%d9%be%d9%84%db%8c-%d8%a7%d8%aa%db%8c%d9%84%d9%86-75-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c/)
 
-<figure role="group"><img src=":drip-tape-gheydar-8.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-8.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 * * *
 
@@ -409,7 +409,7 @@ faq:
 
 #### [قیمت لوله 3 اینچ کشاورزی](https://atrakdrip.ir/%d9%82%db%8c%d9%85%d8%aa-%d9%84%d9%88%d9%84%d9%87-3-%d8%a7%db%8c%d9%86%da%86-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-inch-pipe/)
 
-<figure role="group"><img src=":drip-tape-gheydar-17.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-17.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 ### 3- زاویه دار کردن نوار آبیاری ممنوع:
 
@@ -423,7 +423,7 @@ faq:
 
 حداقل فشار کاری 0.4 اتمسفر و حداکثر فشار کاری 1 اتمسفر برای نوار تیپ می باشد. بنابراین فشار سیستم در طول فصل بهره برداری بیستی در محدوده تعریف شده باشد.
 
-<figure role="group"><img src=":drip-tape-gheydar-9.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-9.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 #### 5- از آبهای خیلی سخت و شور استفاده نکنید.
 
@@ -465,7 +465,7 @@ faq:
 
 * چنانچه نوار تیپ در زیر خاک نصب شده ، بهتر است برای سهولت در جمع آوری tape، مزرعه یک نوبت آبیاری محدود شده تا خاک روی نوار آبیاری نیمه مرطوب و نرم شود.
 
-<figure role="group"><img src=":drip-tape-gheydar-10.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-10.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 قیمت روز سایز 63 استعلام در تهران قیدار سنندج قم رشت همدان یزد بوشهر اهواز مشهد بیرجند تبریز قزوین کرمان کرمانشاه گرگان زاهدان شهرکرد اراک ایلام
 
@@ -482,7 +482,7 @@ faq:
 
 ### [فیلم نوار تیپ](https://www.youtube.com/embed/wBt0-Dg0kSg)
 
-<figure role="group"><img src=":drip-tape-gheydar-11.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
+<figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-قیدار-11.webp" width="750"  height="500" alt="نوار تیپ قیدار" title="تصویر نوار تیپ قیدار" /><figcaption>تصویر نوار تیپ قیدار</figcaption></figure>
 
 ### [قیمت لوله پلی اتیلن 20 تیران](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-20-%D8%AA%DB%8C%D8%B1%D8%A7%D9%86/)
 
