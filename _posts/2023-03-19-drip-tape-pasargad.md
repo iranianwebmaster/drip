@@ -484,31 +484,37 @@ faq:
 
 <figure role="group"><img src="https://atrakdrip.ir/image/نوار-تیپ-پاسارگاد-11.webp" width="750"  height="500" alt="نوار تیپ پاسارگاد" title="تصویر نوار تیپ پاسارگاد" /><figcaption>تصویر نوار تیپ پاسارگاد</figcaption></figure>
 
-### [قیمت لوله پلی اتیلن 16 فریدن داران](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%D9%81%D8%B1%DB%8C%D8%AF%D9%86-%D8%AF%D8%A7%D8%B1%D8%A7%D9%86/)
 
-### [قیمت لوله پلی اتیلن 16 فریدونشهر](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86%D8%B4%D9%87%D8%B1/)
+### [قیمت لوله پلی اتیلن 63 ماهنشان](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-63-%D9%85%D8%A7%D9%87%D9%86%D8%B4%D8%A7%D9%86/)
 
-### [قیمت لوله پلی اتیلن 16 فلاورجان](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%D9%81%D9%84%D8%A7%D9%88%D8%B1%D8%AC%D8%A7%D9%86/)
+### [قیمت لوله پلی اتیلن 75 ابهر](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-75-%D8%A7%D8%A8%D9%87%D8%B1/)
 
-### [قیمت لوله پلی اتیلن 16 لنجان](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%D9%84%D9%86%D8%AC%D8%A7%D9%86/)
+### [قیمت لوله پلی اتیلن 75 خدابنده](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-75-%D8%AE%D8%AF%D8%A7%D8%A8%D9%86%D8%AF%D9%87/)
 
-### [قیمت لوله پلی اتیلن 16 مبارکه](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%D9%85%D8%A8%D8%A7%D8%B1%DA%A9%D9%87/)
+### [قیمت لوله پلی اتیلن 75 خرمدره](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-75-%D8%AE%D8%B1%D9%85%D8%AF%D8%B1%D9%87/)
 
-### [قیمت لوله پلی اتیلن 16 میمه](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%D9%85%DB%8C%D9%85%D9%87/)
+### [قیمت لوله پلی اتیلن 75 زرین آباد](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-75-%D8%B2%D8%B1%DB%8C%D9%86-%D8%A2%D8%A8%D8%A7%D8%AF/)
 
-### [قیمت لوله پلی اتیلن 16 نائین](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%D9%86%D8%A7%D8%A6%DB%8C%D9%86/)
+### [قیمت لوله پلی اتیلن 75 زنجان](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-75-%D8%B2%D9%86%D8%AC%D8%A7%D9%86/)
 
-### [قیمت لوله پلی اتیلن 16 نجف آباد](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%D9%86%D8%AC%D9%81-%D8%A2%D8%A8%D8%A7%D8%AF/)
+### [قیمت لوله پلی اتیلن 75 طارم](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-75-%D8%B7%D8%A7%D8%B1%D9%85/)
 
-### [قیمت لوله پلی اتیلن 16 نطنز](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%D9%86%D8%B7%D9%86%D8%B2/)
+### [قیمت لوله پلی اتیلن 75 قیدار](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-75-%D9%82%DB%8C%D8%AF%D8%A7%D8%B1/)
 
-### [قیمت لوله پلی اتیلن 16 چادگان](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%DA%86%D8%A7%D8%AF%DA%AF%D8%A7%D9%86/)
+### [قیمت لوله پلی اتیلن 75 ماهنشان](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-75-%D9%85%D8%A7%D9%87%D9%86%D8%B4%D8%A7%D9%86/)
 
-### [قیمت لوله پلی اتیلن 16 کاشان](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%DA%A9%D8%A7%D8%B4%D8%A7%D9%86/)
+### [قیمت لوله پلی اتیلن 90 ابهر](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-90-%D8%A7%D8%A8%D9%87%D8%B1/)
 
-### [قیمت لوله پلی اتیلن 16 گلپایگان](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-16-%DA%AF%D9%84%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%86/)
+### [قیمت لوله پلی اتیلن 90 خدابنده](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-90-%D8%AE%D8%AF%D8%A7%D8%A8%D9%86%D8%AF%D9%87/)
 
-### [قیمت لوله پلی اتیلن 160 آران و بیدگل](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-160-%D8%A2%D8%B1%D8%A7%D9%86-%D9%88-%D8%A8%DB%8C%D8%AF%DA%AF%D9%84/)
+### [قیمت لوله پلی اتیلن 90 خرمدره](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-90-%D8%AE%D8%B1%D9%85%D8%AF%D8%B1%D9%87/)
 
-### [قیمت لوله پلی اتیلن 160 اردستان](https://atrakdrip.ir/isfahan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-160-%D8%A7%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86/)
+### [قیمت لوله پلی اتیلن 90 زرین آباد](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-90-%D8%B2%D8%B1%DB%8C%D9%86-%D8%A2%D8%A8%D8%A7%D8%AF/)
 
+### [قیمت لوله پلی اتیلن 90 زنجان](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-90-%D8%B2%D9%86%D8%AC%D8%A7%D9%86/)
+
+### [قیمت لوله پلی اتیلن 90 طارم](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-90-%D8%B7%D8%A7%D8%B1%D9%85/)
+
+### [قیمت لوله پلی اتیلن 90 قیدار](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-90-%D9%82%DB%8C%D8%AF%D8%A7%D8%B1/)
+
+### [قیمت لوله پلی اتیلن 90 ماهنشان](https://atrakdrip.ir/zanjan/%D9%82%DB%8C%D9%85%D8%AA-%D9%84%D9%88%D9%84%D9%87-%D9%BE%D9%84%DB%8C-%D8%A7%D8%AA%DB%8C%D9%84%D9%86-90-%D9%85%D8%A7%D9%87%D9%86%D8%B4%D8%A7%D9%86/)
